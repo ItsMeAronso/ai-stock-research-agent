@@ -15,7 +15,7 @@ os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY", "")
 os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY", "")
 
 llm = LLM(
-    model="gemini/gemini-2.5-flash",
+    model="gemini/gemini-3.8-flash",
     temperature=0.2
 )
 
