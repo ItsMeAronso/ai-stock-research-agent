@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+market_report_*.txt
+swing_report_*.txt
+*.jsonl
+.ipynb_checkpoints/
